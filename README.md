@@ -43,8 +43,4 @@ This dashboard provides an in-depth analysis of loan distribution, customer demo
 - **Microsoft Excel** (for data visualization)
 - **Power BI / Tableau** (optional for interactive dashboards)
 
-## Contributing 🤝
-Feel free to raise issues or submit pull requests if you have ideas for improvements!
 
-## License 📜
-This project is licensed under the MIT License - see the LICENSE file for details.
