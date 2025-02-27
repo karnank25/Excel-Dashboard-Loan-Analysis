@@ -20,9 +20,17 @@ This dashboard provides an in-depth analysis of loan distribution, customer demo
    ![**Age Group Insights**](Personal_Loan_Images/Age_Group.png)
 
 - 📌 **Income & Loan Trends**: Customers earning between 94-188K have the highest loan approvals, indicating a strong correlation between mid-to-high income and loan eligibility.
+
+  ![**Income & Loan Trends**](Personal_Loan_Images/Income&Loan_Trends.png)
 - 📌 **Mortgage & Personal Loan Correlation**: Certain ZIP codes, like 94720 and 94305, have a high number of mortgage holders also opting for personal loans.
+
+    ![**Mortgage & Personal Loan Correlation**](Personal_Loan_Images/Mortgage & Personal_Loan.png)
 - 📌 **Credit Card User Behavior**: Users above 46 years are the dominant credit card holders, indicating a trend toward financial stability and credit usage in older age groups.
+
+    ![**Credit Card User Behavior**](Personal_Loan_Images/Credit_Card_User_Behaviour.png)
 - 📌 **Security Account Influence**: Customers with security accounts are more likely to take loans, with 47,492 having security accounts compared to 13,567 without.
+
+    ![ **Security Account Influence**](Personal_Loan_Images/Security_Acc_Influence.png)
 
 ## How to Use 📌
 1. Open the dashboard in Excel or a visualization tool.
