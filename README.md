@@ -24,7 +24,7 @@ This dashboard provides an in-depth analysis of loan distribution, customer demo
   ![**Income & Loan Trends**](Personal_Loan_Images/Income&Loan_Trends.png)
 - 📌 **Mortgage & Personal Loan Correlation**: Certain ZIP codes, like 94720 and 94305, have a high number of mortgage holders also opting for personal loans.
 
-  ![**Mortgage & Personal Loan Correlation**](Personal_Loan_Images/Mortgage_Personal_Loan.png)
+  ![**Mortgage & Personal Loan Correlation**](Personal_Loan_Images/Mortgage&Personal_Loan.png)
 
  
 - 📌 **Credit Card User Behavior**: Users above 46 years are the dominant credit card holders, indicating a trend toward financial stability and credit usage in older age groups.
