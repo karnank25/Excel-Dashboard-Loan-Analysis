@@ -17,7 +17,7 @@ This dashboard provides an in-depth analysis of loan distribution, customer demo
 ## Insights 🔍
 - 📌 **Age Group Insights**: Customers above 46 years hold the highest percentage (48%) of personal loans, followed by the 31-45 age group (38%).
   
-                  ![**Age Group Insights**](Personal_Loan_Images/Age_Group.png)
+   ![**Age Group Insights**](Personal_Loan_Images/Age_Group.png)
 
 - 📌 **Income & Loan Trends**: Customers earning between 94-188K have the highest loan approvals, indicating a strong correlation between mid-to-high income and loan eligibility.
 - 📌 **Mortgage & Personal Loan Correlation**: Certain ZIP codes, like 94720 and 94305, have a high number of mortgage holders also opting for personal loans.
