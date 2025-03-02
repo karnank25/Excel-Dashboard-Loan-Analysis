@@ -2,7 +2,7 @@
 
 ## Overview 🏦
 This dashboard provides an in-depth analysis of loan distribution, customer demographics, and financial trends. It visualizes key insights related to personal loans, credit card usage, mortgage comparisons, and income levels. The dashboard is designed to help financial analysts understand loan trends and make data-driven decisions.  
-## View Dashboard
+![**Dashboard**](Personal_Loan.png)
 
 ## Features ✨
 - **Total Customers**: Displays the total number of customers in the dataset.
